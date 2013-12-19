@@ -4,7 +4,10 @@
   "description": "three.js - line",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "nomilous/three": "*",
+    "nomilous/three-object": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
