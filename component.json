@@ -1,0 +1,14 @@
+{
+  "name": "three-line",
+  "repo": "nomilous/three-line",
+  "description": "three.js - line",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
